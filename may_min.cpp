@@ -1,8 +1,7 @@
 /*
    Fecha : 25 Sep 2015
    
-   Author: Rafael Cruz
-   		   rj.cruz@hotmail.com
+   Author: Rafael Cruz	|	rj.cruz@hotmail.com
    		   
    Descripción: Aplicación para contar letras Mayúsculas y Minúsculas contenidas en una palabra 
    				pasada como parámetro desde la línea de comando.
