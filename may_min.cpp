@@ -1,3 +1,14 @@
+/*
+   Fecha : 25 Sep 2015
+   
+   Author: Rafael Cruz
+   		   rj.cruz@hotmail.com
+   		   
+   Descripción: Aplicación para contar letras Mayúsculas y Minúsculas contenidas en una palabra 
+   				pasada como parámetro desde la línea de comando.
+
+*/
+
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
@@ -18,6 +29,6 @@ int main(int argc, char *argv[])
 		largo -=1;
 		x +=1;	
 	}
-	printf( "Total Mayusculas %d \nTotal de Minuscula %d", may, min);
+	printf( "Total Mayusculas %d \nTotal de Minusculas %d", may, min);
 	return 0;
 }
